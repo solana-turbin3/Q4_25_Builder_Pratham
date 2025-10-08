@@ -14,11 +14,11 @@ const connection = new Connection("https://api.devnet.solana.com", commitment);
         // Start here
         // const mint = ???
         const mint = await createMint(
-            connection, // connection
-            keypair,    // payer
-            keypair.publicKey, // mint authority
-            null,       // freeze authority (optional)
-            6           // decimals
+            connection,
+            keypair,
+            keypair.publicKey,
+            null,
+            6
         );
         console.log(`The new token mint account address is: ${mint.toBase58()}`);
     } catch(error) {

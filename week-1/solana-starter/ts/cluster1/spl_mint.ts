@@ -9,7 +9,7 @@ const keypair = Keypair.fromSecretKey(new Uint8Array(wallet));
 const commitment: Commitment = "confirmed";
 const connection = new Connection("https://api.devnet.solana.com", commitment);
 
-const token_decimals = 1_000_000n;
+const token_decimals = 1_000_000;
 
 // Mint address
 const mint = new PublicKey("9WDHbkKwSwEcsWbvMKRupmJNUkz16sTMPU1L544gwfDd"); // BwZbmv7fvusRTQ5R8JR2XVzu8jeLbFAXR5tQd1DJuACf
@@ -18,10 +18,10 @@ const mint = new PublicKey("9WDHbkKwSwEcsWbvMKRupmJNUkz16sTMPU1L544gwfDd"); // B
     try {
         // Create an ATA
         const ata = await getOrCreateAssociatedTokenAccount(
-            connection,           // connection
-            keypair,              // payer
-            mint,                 // mint
-            keypair.publicKey     // owner
+            connection,
+            keypair,
+            mint,
+            keypair.publicKey
         );
         console.log(`Your ata is: ${ata.address.toBase58()}`);
 
@@ -32,7 +32,7 @@ const mint = new PublicKey("9WDHbkKwSwEcsWbvMKRupmJNUkz16sTMPU1L544gwfDd"); // B
             mint,
             ata.address,
             keypair.publicKey,
-            10n * token_decimals
+            100 * token_decimals
         )
         console.log(`Your mint txid: ${mintTx}`);
     } catch(error) {
