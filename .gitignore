@@ -1,3 +1,4 @@
+anchor_escrow/
 .env
 node_modules
 # Ignore logs
