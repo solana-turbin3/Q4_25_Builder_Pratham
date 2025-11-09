@@ -19,21 +19,21 @@
 
 | Proof of work | Description | Technologies |
 | --- | --- | --- |
-| [solana-starter](solana-starter/) | Complete Solana development starter kit with Rust and TypeScript implementations covering NFT creation, SPL tokens, and vault operations | Rust, TypeScript, Anchor |
+| [solana-starter](https://github.com/pantha704/solana-starter) | Complete Solana development starter kit with Rust and TypeScript implementations covering NFT creation, SPL tokens, and vault operations | Rust, TypeScript, Anchor |
 
 ## Anchor Framework
 
 | Proof of work | Description | Technologies |
 | --- | --- | --- |
-| [anchor-escrow](anchor-escrow/) | Smart contract for token swaps with escrow functionality implementing make/take/refund escrow patterns | Rust, Anchor |
-| [anchor-vault](anchor-vault/) | Secure vault program for asset storage | Rust, Anchor |
-| [anchor-amm-starter-q4-25](anchor-amm-starter-q4-25/) | Automated Market Maker implementation | Rust, Anchor |
-| [anchor-mplxcore-starter-q4-25](anchor-mplxcore-starter-q4-25/) | Metaplex Core functionality implementation including NFT collection management and creator whitelisting | Rust, Anchor, Metaplex |
+| [anchor-escrow](https://github.com/pantha704/anchor-escrow) | Smart contract for token swaps with escrow functionality implementing make/take/refund escrow patterns | Rust, Anchor |
+| [anchor-vault](https://github.com/pantha704/anchor-vault) | Secure vault program for asset storage | Rust, Anchor |
+| [anchor-amm-starter-q4-25](https://github.com/pantha704/anchor-amm-starter-q4-25/) | Automated Market Maker implementation | Rust, Anchor |
+| [anchor-mplxcore-starter-q4-25](https://github.com/pantha704/anchor-mplxcore-starter-q4-25) | Metaplex Core functionality implementation including NFT collection management and creator whitelisting | Rust, Anchor, Metaplex |
 
 ## Gaming & Staking Applications
 
 | Proof of work | Description | Technologies |
 | --- | --- | --- |
-| [anchor-dice-game-starter-q4-25](anchor-dice-game-starter-q4-25/) | On-chain dice game with betting functionality | Rust, Anchor |
-| [anchor-nft-staking-starter-q4-25](anchor-nft-staking-starter-q4-25/) | NFT staking program with rewards | Rust, Anchor |
+| [anchor-dice-game-starter-q4-25](https://github.com/pantha704/anchor-dice-game-starter-q4-25) | On-chain dice game with betting functionality | Rust, Anchor |
+| [anchor-nft-staking-starter-q4-25](https://github.com/pantha704/anchor-nft-staking-starter-q4-25) | NFT staking program with rewards | Rust, Anchor |
 
