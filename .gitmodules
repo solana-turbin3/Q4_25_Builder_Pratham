@@ -10,3 +10,12 @@
 [submodule "week-3/anchor-amm-starter-q4-25"]
 	path = week-3/anchor-amm-starter-q4-25
 	url = https://github.com/pantha704/anchor-amm-starter-q4-25.git
+[submodule "week-3/anchor-mplxcore-starter-q4-25"]
+	path = week-3/anchor-mplxcore-starter-q4-25
+	url = https://github.com/pantha704/anchor-mplxcore-starter-q4-25.git
+[submodule "week-4/anchor-dice-game-starter-q4-25"]
+	path = week-4/anchor-dice-game-starter-q4-25
+	url = https://github.com/pantha704/anchor-dice-game-starter-q4-25.git
+[submodule "week-4/anchor-nft-staking-starter-q4-25"]
+	path = week-4/anchor-nft-staking-starter-q4-25
+	url = https://github.com/pantha704/anchor-nft-staking-starter-q4-25.git
