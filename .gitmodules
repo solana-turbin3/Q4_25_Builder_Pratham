@@ -19,3 +19,24 @@
 [submodule "week-4/anchor-nft-staking-starter-q4-25"]
 	path = week-4/anchor-nft-staking-starter-q4-25
 	url = https://github.com/pantha704/anchor-nft-staking-starter-q4-25.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/pantha704/solana-starter.git
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/pantha704/anchor-escrow.git
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/pantha704/anchor-vault.git
+[submodule "anchor-amm-starter-q4-25"]
+	path = anchor-amm-starter-q4-25
+	url = https://github.com/pantha704/anchor-amm-starter-q4-25.git
+[submodule "anchor-mplxcore-starter-q4-25"]
+	path = anchor-mplxcore-starter-q4-25
+	url = https://github.com/pantha704/anchor-mplxcore-starter-q4-25.git
+[submodule "anchor-dice-game-starter-q4-25"]
+	path = anchor-dice-game-starter-q4-25
+	url = https://github.com/pantha704/anchor-dice-game-starter-q4-25.git
+[submodule "anchor-nft-staking-starter-q4-25"]
+	path = anchor-nft-staking-starter-q4-25
+	url = https://github.com/pantha704/anchor-nft-staking-starter-q4-25.git
