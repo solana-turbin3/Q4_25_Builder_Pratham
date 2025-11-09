@@ -4,9 +4,9 @@ My PoWs during the Q4 2025 Solana builder's cohort here in Turbin3.
 
 ## Overview
 
-This repository contains my work throughout the Q4 2025 Solana Builder's Cohort. Each week's projects are organized in their respective directories, showcasing my progress and learning journey in Solana development.
+This repository contains my work throughout the Q4 2025 Solana Builder's Cohort. All projects are organized in the root directory, showcasing my progress and learning journey in Solana development.
 
-## Weekly Progress
+## Projects
 
 ### [Week 0](week-0/): Rust & TypeScript Prerequisites
 - **Rust Prerequisites Tutorial**: [Rust_Prerequisites_Tutorial.pdf](week-0/Rust_Prerequisites_Tutorial.pdf)
@@ -16,31 +16,24 @@ This repository contains my work throughout the Q4 2025 Solana Builder's Cohort.
 - **Airdrop Program 2**: Enhanced airdrop functionality in Rust
  - [Source Code](week-0/airdrop2/)
 
-### [Week 1](week-1/): Solana Fundamentals
-- **Solana Starter**: Complete Solana development starter kit
-  - [Repository](week-1/solana-starter/) (Git Submodule)
-  - Includes Rust and TypeScript implementations
+### Solana Fundamentals
+- **[Solana Starter](solana-starter/)**: Complete Solana development starter kit (Git Submodule)
+ - Includes Rust and TypeScript implementations
   - Covers NFT creation, SPL tokens, and vault operations
 
-### [Week 2](week-2/): Anchor Framework
-- **Anchor Escrow**: Smart contract for token swaps with escrow functionality
-  - [Repository](week-2/anchor-escrow/) (Git Submodule)
+### Anchor Framework
+- **[Anchor Escrow](anchor-escrow/)**: Smart contract for token swaps with escrow functionality (Git Submodule)
   - Implements make/take/refund escrow patterns
-- **Anchor Vault**: Secure vault program for asset storage
- - [Repository](week-2/anchor-vault/) (Git Submodule)
+- **[Anchor Vault](anchor-vault/)**: Secure vault program for asset storage (Git Submodule)
 
-### [Week 3](week-3/): Advanced Anchor Development
-- **Anchor AMM**: Automated Market Maker implementation
- - [Repository](week-3/anchor-amm-starter-q4-25/) (Git Submodule)
-- **Anchor MPL Core**: Metaplex Core functionality implementation
-  - [Repository](week-3/anchor-mplxcore-starter-q4-25/) (Git Submodule)
+### Advanced Anchor Development
+- **[Anchor AMM](anchor-amm-starter-q4-25/)**: Automated Market Maker implementation (Git Submodule)
+- **[Anchor MPL Core](anchor-mplxcore-starter-q4-25/)**: Metaplex Core functionality implementation (Git Submodule)
   - Includes NFT collection management and creator whitelisting
 
-### [Week 4](week-4/): Gaming & Staking Applications
-- **Dice Game**: On-chain dice game with betting functionality
-  - [Repository](week-4/anchor-dice-game-starter-q4-25/) (Git Submodule)
-- **NFT Staking**: NFT staking program with rewards
-  - [Repository](week-4/anchor-nft-staking-starter-q4-25/) (Git Submodule)
+### Gaming & Staking Applications
+- **[Dice Game](anchor-dice-game-starter-q4-25/)**: On-chain dice game with betting functionality (Git Submodule)
+- **[NFT Staking](anchor-nft-staking-starter-q4-25/)**: NFT staking program with rewards (Git Submodule)
 
 ## [Capstone Project](capstone/)
 
@@ -59,13 +52,13 @@ Work in progress - Advanced Solana application combining concepts learned throug
 
 This repository uses Git submodules to manage individual project repositories. The following projects are integrated as submodules:
 
-- `week-1/solana-starter`
-- `week-2/anchor-escrow`
-- `week-2/anchor-vault`
-- `week-3/anchor-amm-starter-q4-25`
-- `week-3/anchor-mplxcore-starter-q4-25`
-- `week-4/anchor-dice-game-starter-q4-25`
-- `week-4/anchor-nft-staking-starter-q4-25`
+- `solana-starter`
+- `anchor-escrow`
+- `anchor-vault`
+- `anchor-amm-starter-q4-25`
+- `anchor-mplxcore-starter-q4-25`
+- `anchor-dice-game-starter-q4-25`
+- `anchor-nft-staking-starter-q4-25`
 
 ### Working with Submodules
 
