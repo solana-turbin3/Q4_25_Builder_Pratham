@@ -36,4 +36,3 @@
 | --- | --- | --- |
 | [anchor-dice-game-starter-q4-25](https://github.com/pantha704/anchor-dice-game-starter-q4-25) | On-chain dice game with betting functionality | Rust, Anchor |
 | [anchor-nft-staking-starter-q4-25](https://github.com/pantha704/anchor-nft-staking-starter-q4-25) | NFT staking program with rewards | Rust, Anchor |
-
