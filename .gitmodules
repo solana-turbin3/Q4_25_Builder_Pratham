@@ -1,0 +1,12 @@
+[submodule "week-1/solana-starter"]
+	path = week-1/solana-starter
+	url = https://github.com/pantha704/solana-starter.git
+[submodule "week-2/anchor-escrow"]
+	path = week-2/anchor-escrow
+	url = https://github.com/pantha704/anchor-escrow.git
+[submodule "week-2/anchor-vault"]
+	path = week-2/anchor-vault
+	url = https://github.com/pantha704/anchor-vault.git
+[submodule "week-3/anchor-amm-starter-q4-25"]
+	path = week-3/anchor-amm-starter-q4-25
+	url = https://github.com/pantha704/anchor-amm-starter-q4-25.git
