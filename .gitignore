@@ -1,6 +1,8 @@
 TEST_SUITE_STRUCTURE.md
 TEST_EXAMPLES.md
 TESTING_GUIDE.md
+anchor-dice-game-q4-25/
+anchor-amm-q4-25/
 .env
 node_modules
 # Ignore logs
