@@ -27,12 +27,12 @@
 | --- | --- | --- |
 | [anchor-escrow](https://github.com/pantha704/anchor-escrow) | Smart contract for token swaps with escrow functionality implementing make/take/refund escrow patterns | Rust, Anchor |
 | [anchor-vault](https://github.com/pantha704/anchor-vault) | Secure vault program for asset storage | Rust, Anchor |
-| [anchor-amm-starter-q4-25](https://github.com/pantha704/anchor-amm-starter-q4-25/) | Automated Market Maker implementation | Rust, Anchor |
-| [anchor-mplxcore-starter-q4-25](https://github.com/pantha704/anchor-mplxcore-starter-q4-25) | Metaplex Core functionality implementation including NFT collection management and creator whitelisting | Rust, Anchor, Metaplex |
+| [anchor-amm](https://github.com/pantha704/anchor-amm/) | Automated Market Maker implementation | Rust, Anchor |
+| [anchor-mplxcore](https://github.com/pantha704/anchor-mplxcore) | Metaplex Core functionality implementation including NFT collection management and creator whitelisting | Rust, Anchor, Metaplex |
 
 ## Gaming & Staking Applications
 
 | Proof of work | Description | Technologies |
 | --- | --- | --- |
-| [anchor-dice-game-starter-q4-25](https://github.com/pantha704/anchor-dice-game-starter-q4-25) | On-chain dice game with betting functionality | Rust, Anchor |
-| [anchor-nft-staking-starter-q4-25](https://github.com/pantha704/anchor-nft-staking-starter-q4-25) | NFT staking program with rewards | Rust, Anchor |
+| [anchor-dice-game](https://github.com/pantha704/anchor-dice-game) | On-chain dice game with betting functionality | Rust, Anchor |
+| [anchor-nft-staking](https://github.com/pantha704/anchor-nft-staking) | NFT staking program with rewards | Rust, Anchor |
