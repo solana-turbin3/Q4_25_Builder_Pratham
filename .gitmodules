@@ -29,15 +29,15 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/pantha704/anchor-vault.git
-[submodule "anchor-amm-starter-q4-25"]
-	path = anchor-amm-starter-q4-25
-	url = https://github.com/pantha704/anchor-amm-starter-q4-25.git
-[submodule "anchor-mplxcore-starter-q4-25"]
-	path = anchor-mplxcore-starter-q4-25
-	url = https://github.com/pantha704/anchor-mplxcore-starter-q4-25.git
-[submodule "anchor-dice-game-starter-q4-25"]
-	path = anchor-dice-game-starter-q4-25
-	url = https://github.com/pantha704/anchor-dice-game-starter-q4-25.git
-[submodule "anchor-nft-staking-starter-q4-25"]
-	path = anchor-nft-staking-starter-q4-25
-	url = https://github.com/pantha704/anchor-nft-staking-starter-q4-25.git
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = https://github.com/pantha704/anchor-amm.git
+[submodule "anchor-mplxcore"]
+	path = anchor-mplxcore
+	url = https://github.com/pantha704/anchor-mplxcore.git
+[submodule "anchor-dice-game"]
+	path = anchor-dice-game
+	url = https://github.com/pantha704/anchor-dice-game.git
+[submodule "anchor-nft-staking"]
+	path = anchor-nft-staking
+	url = https://github.com/pantha704/anchor-nft-staking.git
