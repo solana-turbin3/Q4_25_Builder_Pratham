@@ -41,3 +41,6 @@
 [submodule "anchor-nft-staking"]
 	path = anchor-nft-staking
 	url = https://github.com/pantha704/anchor-nft-staking.git
+[submodule "solverse"]
+	path = solverse
+	url = https://github.com/pantha704/solverse
