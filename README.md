@@ -36,3 +36,9 @@
 | --- | --- | --- |
 | [anchor-dice-game](https://github.com/pantha704/anchor-dice-game) | On-chain dice game with betting functionality | Rust, Anchor |
 | [anchor-nft-staking](https://github.com/pantha704/anchor-nft-staking) | NFT staking program with rewards | Rust, Anchor |
+
+## Capstone
+
+| Proof of work | Description | Technologies |
+| --- | --- | --- |
+| [solverse](https://github.com/pantha704/solverse) | NFT staking program with rewards | Rust, Anchor |
