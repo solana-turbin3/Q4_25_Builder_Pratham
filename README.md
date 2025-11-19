@@ -41,4 +41,4 @@
 
 | Proof of work | Description | Technologies |
 | --- | --- | --- |
-| [solverse](https://github.com/pantha704/solverse) | NFT staking program with rewards | Rust, Anchor |
+| [solverse](https://github.com/pantha704/solverse) | Bounty platform for everyone around the globe | Rust, Anchor |
