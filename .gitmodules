@@ -44,3 +44,6 @@
 [submodule "solverse"]
 	path = solverse
 	url = https://github.com/pantha704/solverse
+[submodule "sol-starter-kit"]
+	path = sol-starter-kit
+	url = https://github.com/pantha704/sol-starter-kit
