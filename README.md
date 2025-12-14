@@ -15,10 +15,10 @@
 
 ## Solana Fundamentals
 
-| Proof of work                                                   | Description                                                                                                                              | Technologies             |
-| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [solana-starter](https://github.com/pantha704/solana-starter)   | Complete Solana development starter kit with Rust and TypeScript implementations covering NFT creation, SPL tokens, and vault operations | Rust, TypeScript, Anchor |
-| [sol-starter-kit](https://github.com/pantha704/sol-starter-kit) | Complete Solana development starter app covering token transfers, swaps, message signatures, transaction history, airdrop, and more      | Rust, TypeScript, Anchor |
+| Proof of work                                                   | Description                                                                                                                              | Technologies     |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [solana-starter](https://github.com/pantha704/solana-starter)   | Complete Solana development starter kit with Rust and TypeScript implementations covering NFT creation, SPL tokens, and vault operations | Rust, TypeScript |
+| [sol-starter-kit](https://github.com/pantha704/sol-starter-kit) | Complete Solana development starter app covering token transfers, swaps, message signatures, transaction history, airdrop, and more      | TypeScript       |
 
 ## Anchor Framework
 
