@@ -47,3 +47,6 @@
 [submodule "sol-starter-kit"]
 	path = sol-starter-kit
 	url = https://github.com/pantha704/sol-starter-kit
+[submodule "solana-clmm"]
+	path = solana-clmm
+	url = https://github.com/pantha704/solana-clmm
