@@ -28,6 +28,7 @@
 | [anchor-vault](https://github.com/pantha704/anchor-vault)       | Secure vault program for asset storage                                                                  | Rust, Anchor           |
 | [anchor-amm](https://github.com/pantha704/anchor-amm/)          | Automated Market Maker implementation                                                                   | Rust, Anchor           |
 | [anchor-mplxcore](https://github.com/pantha704/anchor-mplxcore) | Metaplex Core functionality implementation including NFT collection management and creator whitelisting | Rust, Anchor, Metaplex |
+| [solana-clmm](solana-clmm/)                                     | Concentrated Liquidity Market Maker implementation inspired by Raydium (In Progress)                    | Rust, Anchor           |
 
 ## Gaming & Staking Applications
 
